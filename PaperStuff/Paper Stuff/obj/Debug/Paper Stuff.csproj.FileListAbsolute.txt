@@ -1,0 +1,10 @@
+C:\Users\mike2\source\repos\PaperStuff\Paper Stuff\bin\Debug\Paper Stuff.exe.config
+C:\Users\mike2\source\repos\PaperStuff\Paper Stuff\bin\Debug\Paper Stuff.exe
+C:\Users\mike2\source\repos\PaperStuff\Paper Stuff\bin\Debug\Paper Stuff.pdb
+C:\Users\mike2\source\repos\PaperStuff\Paper Stuff\obj\Debug\Paper Stuff.csprojAssemblyReference.cache
+C:\Users\mike2\source\repos\PaperStuff\Paper Stuff\obj\Debug\Paper_Stuff.Form1.resources
+C:\Users\mike2\source\repos\PaperStuff\Paper Stuff\obj\Debug\Paper_Stuff.Properties.Resources.resources
+C:\Users\mike2\source\repos\PaperStuff\Paper Stuff\obj\Debug\Paper Stuff.csproj.GenerateResource.cache
+C:\Users\mike2\source\repos\PaperStuff\Paper Stuff\obj\Debug\Paper Stuff.csproj.CoreCompileInputs.cache
+C:\Users\mike2\source\repos\PaperStuff\Paper Stuff\obj\Debug\Paper Stuff.exe
+C:\Users\mike2\source\repos\PaperStuff\Paper Stuff\obj\Debug\Paper Stuff.pdb
